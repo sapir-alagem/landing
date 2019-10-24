@@ -1,0 +1,9 @@
+.cards {
+  display: flex;
+  justify-content: center;
+}
+
+.container h2 {
+  text-align: center;
+  color: #372f6b;
+}

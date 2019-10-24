@@ -1,0 +1,27 @@
+@import url("components/btn.css");
+
+.banner {
+  background-size: cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://sportycious.com/wp-content/uploads/2016/12/Synchronized-Swimming.jpg");
+  padding: 200px 0;
+}
+
+.container {
+  width: 700px;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-family: Poppins;
+  font-weight: bold;
+  color: white;
+
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  opacity: .7;
+}
